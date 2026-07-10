@@ -1,7 +1,5 @@
 # Hi, I'm Ganesh DG 
 
-Vice President – Data & Analytics at Citi
-
 I enjoy building practical Python utilities, automation tools, and AI-powered applications.
 
 ## Current Projects
