@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ganesh DG 👋
 
-<!--
-**dg-ganesh/dg-ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vice President – Data & Analytics at Citi
 
-Here are some ideas to get you started:
+I enjoy building practical Python utilities, automation tools, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+- Smart File Organizer
+- Bulk File Renamer
+- Folder Size Analyzer
+
+## 🛠 Tech Stack
+
+Python • SQL • AWS • Data Engineering • Git • AI
+
+## 🌱 Currently Working On
+
+Building a portfolio of practical Python desktop utilities.
