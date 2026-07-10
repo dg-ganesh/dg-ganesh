@@ -6,9 +6,9 @@ I enjoy building practical Python utilities, automation tools, and AI-powered ap
 
 ## Current Projects
 
-- [📂 Smart File Organizer](https://github.com/dg-ganesh/smart-file-organizer)
-- [📝 Bulk File Renamer](https://github.com/dg-ganesh/Bulk-File-Renamer)
-- [📊 Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
+- [ Smart File Organizer](https://github.com/dg-ganesh/smart-file-organizer)
+- [ Bulk File Renamer](https://github.com/dg-ganesh/Bulk-File-Renamer)
+- [ Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
 
 ## Tech Stack used / will use..
 
