@@ -1,6 +1,5 @@
-<img align="right" width="240" src="https://github.com/user-attachments/assets/2e699a7b-ee9c-4671-be40-87aaa346790e" alt="Ganesh DG"/>
 
-# Hi, I'm Ganesh DG 👋
+# Hi, I am Ganesh DG
 
 I enjoy building practical Python utilities, automation tools, and AI-powered applications. I recently developed a strong interest in open-source vibe coding projects and enjoy exploring how AI can help turn ideas into useful software.
 
