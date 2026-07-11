@@ -1,6 +1,9 @@
-# Hi, I'm Ganesh DG 
+# Hi, I am Ganesh DG 
 
-I enjoy building practical Python utilities, automation tools, and AI-powered applications.
+I enjoy building practical Python utilities, automation tools, and AI-powered applications. I recently developed a strong interest in open-source vibe coding projects and enjoy exploring how AI can help turn ideas into useful software.
+
+While my projects may be modest in scope compared to many open-source developers, my goal is simple: build tools that solve real problems for everyday users. After spending much of my career delivering technology solutions for large enterprises, I'm excited to create software that anyone can use and benefit from.
+
 
 ## Current Projects
 
