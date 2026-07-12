@@ -12,6 +12,7 @@ While my projects may be modest in scope compared to many open-source developers
 - [ Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
 - [Bulk Image resizer](https://github.com/dg-ganesh/bulk_image_resizer)
 - [Password Generato](https://github.com/dg-ganesh/password-generator)
+- [QR Code Generator](https://github.com/dg-ganesh/QR-Code-Generator)
 
 ## Tech Stack used / will use..
 
