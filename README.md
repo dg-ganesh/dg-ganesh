@@ -16,7 +16,7 @@ While my projects may be modest in scope compared to many open-source developers
 
 ## Tech Stack used / will use..
 
-Python • SQL • AWS • Data Engineering • Git • AI
+Python • SQLite • Desktop Application Development • GUI Development • PDF Processing • Document Generation • File System Automation • Image Processing • QR Code Generation • Git • GitHub • Markdown
 
 ## Currently Working On
 
