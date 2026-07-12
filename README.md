@@ -11,6 +11,7 @@ While my projects may be modest in scope compared to many open-source developers
 - [ Bulk File Renamer](https://github.com/dg-ganesh/Bulk-File-Renamer)
 - [ Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
 - [Bulk Image resizer](https://github.com/dg-ganesh/bulk_image_resizer)
+- [Password Generato](https://github.com/dg-ganesh/password-generator)
 
 ## Tech Stack used / will use..
 
