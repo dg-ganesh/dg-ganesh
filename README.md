@@ -7,12 +7,13 @@ While my projects may be modest in scope compared to many open-source developers
 
 ## Current Projects
 
-- [ Smart File Organizer](https://github.com/dg-ganesh/smart-file-organizer)
-- [ Bulk File Renamer](https://github.com/dg-ganesh/Bulk-File-Renamer)
-- [ Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
-- [Bulk Image resizer](https://github.com/dg-ganesh/bulk_image_resizer)
-- [Password Generato](https://github.com/dg-ganesh/password-generator)
-- [QR Code Generator](https://github.com/dg-ganesh/QR-Code-Generator)
+- [ 001 Smart File Organizer](https://github.com/dg-ganesh/smart-file-organizer)
+- [ 002 Bulk File Renamer](https://github.com/dg-ganesh/Bulk-File-Renamer)
+- [ 003 Folder Size Analyzer](https://github.com/dg-ganesh/Folder-Size-Analyzer)
+- [ 004 Bulk Image resizer](https://github.com/dg-ganesh/bulk_image_resizer)
+- [ 005 Password Generato](https://github.com/dg-ganesh/password-generator)
+- [ 006 QR Code Generator](https://github.com/dg-ganesh/QR-Code-Generator)
+- [ 007 PDF Merger](https://github.com/dg-ganesh/PDF-Merger)
 
 ## Tech Stack used / will use..
 
