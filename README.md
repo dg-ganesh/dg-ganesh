@@ -22,6 +22,7 @@ Python • Tkinter • SQLite • ReportLab • pypdf • python-docx • Pillow
 ## Currently Working On
 
 Building a portfolio of practical Python desktop utilities.
+
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-green)
