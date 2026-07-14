@@ -15,7 +15,8 @@ While my projects may be modest in scope compared to many open-source developers
 | 004 | Bulk Image Resizer | ✅ Complete | [Repository](https://github.com/dg-ganesh/bulk_image_resizer) |
 | 005 | Password Generator | ✅ Complete | [Repository](https://github.com/dg-ganesh/password-generator) |
 | 006 | QR Code Generator | ✅ Complete | [Repository](https://github.com/dg-ganesh/QR-Code-Generator) |
-| 007 | PDF Merger | 🚧 In Progress | [Repository](https://github.com/dg-ganesh/PDF-Merger) |
+| 007 | PDF Merger | ✅ Complete | [Repository](https://github.com/dg-ganesh/PDF-Merger) |
+| 008 | PDF Splitter | 🚧 In Progress | TBD |
 
 ## Tech Stack used / will use..
 
