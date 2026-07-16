@@ -17,7 +17,8 @@ While my projects may be modest in scope compared to many open-source developers
 | 006 | QR Code Generator | ✅ Complete | [Repository](https://github.com/dg-ganesh/QR-Code-Generator) |
 | 007 | PDF Merger | ✅ Complete | [Repository](https://github.com/dg-ganesh/PDF-Merger) |
 | 008 | PDF Splitter | ✅ Complete | [Repository](https://github.com/dg-ganesh/pdf-splitter) |
-| 009 | CSV Cleaner | 🚧 In Progress | TBD |
+| 009 | CSV Cleaner | ✅ Complete | [Repository](https://github.com/dg-ganesh/csv-cleaner) |
+| 010 | Duplicate File Finder | 🚧 In Progress | TBD |
 
 ## Tech Stack used / will use..
 
