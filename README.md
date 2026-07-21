@@ -21,23 +21,18 @@ While my projects may be modest in scope compared to many open-source developers
 | 010 | Duplicate File Finder | ✅ Complete | [Repository](https://github.com/dg-ganesh/010-Duplicate-File-Finder) | 
 | 011 | Resume Formatter | 🚧 In Progress | TBD |
 
-## Tech Stack used / will use..
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-8C52FF?style=for-the-badge)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF%20Library-E5322D?style=for-the-badge)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-Fitz-009688?style=for-the-badge)
-![pandas](https://img.shields.io/badge/pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![qrcode](https://img.shields.io/badge/qrcode-QR%20Generation-000000?style=for-the-badge)
-![pathlib](https://img.shields.io/badge/pathlib-File%20System-4CAF50?style=for-the-badge)
-![OS](https://img.shields.io/badge/os-File%20Operations-607D8B?style=for-the-badge)
-![shutil](https://img.shields.io/badge/shutil-File%20Management-795548?style=for-the-badge)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-Executable-FFCA28?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Currently Working On
 
