@@ -19,7 +19,8 @@ While my projects may be modest in scope compared to many open-source developers
 | 008 | PDF Splitter | ✅ Complete | [Repository](https://github.com/dg-ganesh/pdf-splitter) |
 | 009 | CSV Cleaner | ✅ Complete | [Repository](https://github.com/dg-ganesh/csv-cleaner) | 
 | 010 | Duplicate File Finder | ✅ Complete | [Repository](https://github.com/dg-ganesh/010-Duplicate-File-Finder) | 
-| 011 | Resume Formatter | 🚧 In Progress | TBD |
+| 011 | Professional Resume Formatter | ✅ Complete | [Repository](https://github.com/dg-ganesh/011-Professional-Resume-Formatter) | 
+| 012 | Public API Data Explorer | 🚧 In Progress | TBD |
 
 ## 🛠️ Tech Stack
 
