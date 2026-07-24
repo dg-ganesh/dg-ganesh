@@ -20,7 +20,8 @@ While my projects may be modest in scope compared to many open-source developers
 | 009 | CSV Cleaner | ✅ Complete | [Repository](https://github.com/dg-ganesh/csv-cleaner) | 
 | 010 | Duplicate File Finder | ✅ Complete | [Repository](https://github.com/dg-ganesh/010-Duplicate-File-Finder) | 
 | 011 | Professional Resume Formatter | ✅ Complete | [Repository](https://github.com/dg-ganesh/011-Professional-Resume-Formatter) | 
-| 012 | Public API Data Explorer | 🚧 In Progress | TBD |
+| 012 | Public API Data Explorer | ✅ Complete | [Repository](https://github.com/dg-ganesh/012-Public-API-Data-Explorer) |
+| 013 | Invoice Generator | 🚧 In Progress | TBD |
 
 ## 🛠️ Tech Stack
 
