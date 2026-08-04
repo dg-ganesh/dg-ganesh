@@ -21,7 +21,7 @@ While my projects may be modest in scope compared to many open-source developers
 | 010 | Duplicate File Finder | ✅ Complete | [Repository](https://github.com/dg-ganesh/010-Duplicate-File-Finder) | 
 | 011 | Professional Resume Formatter | ✅ Complete | [Repository](https://github.com/dg-ganesh/011-Professional-Resume-Formatter) | 
 | 012 | Public API Data Explorer | ✅ Complete | [Repository](https://github.com/dg-ganesh/012-Public-API-Data-Explorer) |
-| 013 | Invoice Generator |  ✅ Complete | [Repository](https://github.com/dg-ganesh/014-Log-File-Analyzer) |
+| 013 | Invoice Generator |  ✅ Complete | [Repository](https://github.com/dg-ganesh/013-Invoice-Generator) |
 | 014 | Log File Analyzer |  ✅ Complete | [Repository](https://github.com/dg-ganesh/014-Log-File-Analyzer) |
 | 015 | Expense Analyzer |  ✅ Complete | [Repository](https://github.com/dg-ganesh/015-Expense-Analyzer) |
 | 016 | Amazon S3 Uploader |  ✅ Complete | [Repository](https://github.com/dg-ganesh/aws-s3-uploader) |
