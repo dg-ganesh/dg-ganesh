@@ -28,55 +28,27 @@ While my projects may be modest in scope compared to many open-source developers
 | 017 | REST API Template | 🚧 In Progress | TBD |
 
 
+  ## 🛠️ Tech Stack
 
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-1F6FEB?style=for-the-badge)
-![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-AWS%20SDK-FF9900?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-8C52FF?style=for-the-badge)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF%20Library-E5322D?style=for-the-badge)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-Fitz-009688?style=for-the-badge)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-Executable-FFCA28?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
 ## 🚀 Currently Working On
 
-Building a portfolio of enterprise-quality Python desktop applications focused on automation, cloud integration, document processing, and productivity.
-
-![Python](https://img.shields.io/badge/Python-3.14-blue)
-![Projects](https://img.shields.io/badge/Projects-16%20Completed-success)
-
-![Windows](https://img.shields.io/badge/Platform-Windows-green)
-![Desktop Utility](https://img.shields.io/badge/Application-Desktop_Utility-2ea44f)
-![Standalone EXE](https://img.shields.io/badge/Deployment-Standalone_EXE-success)
-
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-1F6FEB)
-![AWS S3](https://img.shields.io/badge/Cloud-AWS_S3-FF9900)
-![Boto3](https://img.shields.io/badge/SDK-Boto3-orange)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458)
-![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-blueviolet)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF_Processing-red)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF_Rendering-009688)
-![qrcode](https://img.shields.io/badge/qrcode-QR_Generation-black)
-
-![Layered Architecture](https://img.shields.io/badge/Architecture-Layered-blue)
-![Modular Design](https://img.shields.io/badge/Design-Modular-success)
-![Threading](https://img.shields.io/badge/Concurrency-Threading-6f42c1)
-![JSON](https://img.shields.io/badge/Configuration-JSON-informational)
-
-![VS Code](https://img.shields.io/badge/IDE-VS_Code-007ACC)
-![PyInstaller](https://img.shields.io/badge/Packaging-PyInstaller-orange)
-![Git](https://img.shields.io/badge/Git-Version_Control-f05032)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717)
-
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+Building a portfolio of **enterprise-quality Python applications** focused on automation, cloud integration, document processing, data engineering, APIs, and productivity.
