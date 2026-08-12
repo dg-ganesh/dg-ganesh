@@ -6,28 +6,29 @@ I enjoy building practical desktop applications and AI-powered tools that solve 
 While my projects may be modest in scope compared to many open-source developers, my goal is simple: build tools that solve real problems for everyday users. After spending much of my career delivering technology solutions for large enterprises, I'm excited to create software that anyone can use and benefit from.
 
 ## Current Projects
+
 ## Current Projects
 
-|  ID | Project                       |     Status     | Tech Stack                                                        | Repo |
-| :-: | ----------------------------- | :------------: | ----------------------------------------------------------------- | :--- |
-| 001 | Smart File Organizer          |   ✅ Complete   | Python, pathlib, os, shutil, Tkinter, JSON configuration          | [Repo](https://github.com/dg-ganesh/smart-file-organizer) |
-| 002 | Bulk File Renamer             |   ✅ Complete   | Python, pathlib, os, regular expressions, Tkinter, JSON configuration | [Repo](https://github.com/dg-ganesh/Bulk-File-Renamer) |
-| 003 | Folder Size Analyzer          |   ✅ Complete   | Python, pathlib, os, pandas, matplotlib, Tkinter                  | [Repo](https://github.com/dg-ganesh/Folder-Size-Analyzer) |
-| 004 | Bulk Image Resizer             |   ✅ Complete   | Python, Pillow, pathlib, Tkinter                                  | [Repo](https://github.com/dg-ganesh/bulk_image_resizer) |
-| 005 | Password Generator             |   ✅ Complete   | Python, secrets, string, Tkinter                                  | [Repo](https://github.com/dg-ganesh/password-generator) |
-| 006 | QR Code Generator              |   ✅ Complete   | Python, qrcode, Pillow, Tkinter                                   | [Repo](https://github.com/dg-ganesh/QR-Code-Generator) |
-| 007 | PDF Merger                     |   ✅ Complete   | Python, pypdf, pathlib, Tkinter                                   | [Repo](https://github.com/dg-ganesh/PDF-Merger) |
-| 008 | PDF Splitter                   |   ✅ Complete   | Python, pypdf, pathlib, Tkinter                                   | [Repo](https://github.com/dg-ganesh/pdf-splitter) |
-| 009 | CSV Cleaner                    |   ✅ Complete   | Python, pandas, NumPy, pathlib, Tkinter                           | [Repo](https://github.com/dg-ganesh/csv-cleaner) |
-| 010 | Duplicate File Finder          |   ✅ Complete   | Python, pathlib, hashlib, os, Tkinter                             | [Repo](https://github.com/dg-ganesh/010-Duplicate-File-Finder) |
-| 011 | Professional Resume Formatter  |   ✅ Complete   | Python, python-docx, Jinja2, Tkinter                              | [Repo](https://github.com/dg-ganesh/011-Professional-Resume-Formatter) |
-| 012 | Public API Data Explorer       |   ✅ Complete   | Python, requests/httpx, pandas, JSON, Tkinter                     | [Repo](https://github.com/dg-ganesh/012-Public-API-Data-Explorer) |
-| 013 | Invoice Generator              |   ✅ Complete   | Python, SQLite, pandas, ReportLab, Tkinter                        | [Repo](https://github.com/dg-ganesh/013-Invoice-Generator) |
-| 014 | Log File Analyzer              |   ✅ Complete   | Python, pandas, regular expressions, pathlib, matplotlib, Tkinter | [Repo](https://github.com/dg-ganesh/014-Log-File-Analyzer) |
-| 015 | Expense Analyzer               |   ✅ Complete   | Python, pandas, NumPy, matplotlib, SQLite, Tkinter                | [Repo](https://github.com/dg-ganesh/015-Expense-Analyzer) |
-| 016 | Amazon S3 Uploader             |   ✅ Complete   | Python, boto3, Amazon S3, Tkinter, pathlib                        | [Repo](https://github.com/dg-ganesh/aws-s3-uploader) |
-| 017 | REST API Template              |   ✅ Complete   | Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, pytest          | [Repo](https://github.com/dg-ganesh/017-REST-API-Template) |
-| 018 | URL Shortener API              | 🚧 In Progress | —                                                                 | — |
+|  ID | Project                       |     Status     | Tech Stack                                                                 | Repo |
+| :-: | ----------------------------- | :------------: | -------------------------------------------------------------------------- | :--- |
+| 001 | Smart File Organizer          |   ✅ Complete   | Python, pathlib, shutil, sys, PyInstaller                                  | [Repo](https://github.com/dg-ganesh/smart-file-organizer) |
+| 002 | Bulk File Renamer             |   ✅ Complete   | Python, pathlib, sys, uuid, PyInstaller                                    | [Repo](https://github.com/dg-ganesh/Bulk-File-Renamer) |
+| 003 | Folder Size Analyzer           |   ✅ Complete   | Python, os, time, dataclasses, datetime, PyInstaller                      | [Repo](https://github.com/dg-ganesh/Folder-Size-Analyzer) |
+| 004 | Bulk Image Resizer             |   ✅ Complete   | Python, Tkinter, Pillow, PyInstaller                                      | [Repo](https://github.com/dg-ganesh/bulk_image_resizer) |
+| 005 | Password Generator             |   ✅ Complete   | Python, Tkinter, Python Standard Library, PyInstaller                      | [Repo](https://github.com/dg-ganesh/password-generator) |
+| 006 | QR Code Generator              |   ✅ Complete   | Python, PySide6, qrcode, Pillow, PyInstaller                              | [Repo](https://github.com/dg-ganesh/QR-Code-Generator) |
+| 007 | PDF Merger                     |   ✅ Complete   | Python, CustomTkinter, pypdf, PyInstaller                                  | [Repo](https://github.com/dg-ganesh/PDF-Merger) |
+| 008 | PDF Splitter                   |   ✅ Complete   | Python, CustomTkinter, pypdf, pathlib, PyInstaller                        | [Repo](https://github.com/dg-ganesh/pdf-splitter) |
+| 009 | CSV Cleaner                    |   ✅ Complete   | Python, Tkinter, pandas, pathlib, csv, dataclasses, re, PyInstaller        | [Repo](https://github.com/dg-ganesh/csv-cleaner) |
+| 010 | Duplicate File Finder          |   ✅ Complete   | Python, Tkinter, pathlib, hashlib, logging, dataclasses, PyInstaller       | [Repo](https://github.com/dg-ganesh/010-Duplicate-File-Finder) |
+| 011 | Professional Resume Formatter  |   ✅ Complete   | Python, Tkinter, python-docx, PyInstaller                                 | [Repo](https://github.com/dg-ganesh/011-Professional-Resume-Formatter) |
+| 012 | Public API Data Explorer       |   ✅ Complete   | Python, Tkinter, requests, pathlib, json, dataclasses, logging, PyInstaller | [Repo](https://github.com/dg-ganesh/012-Public-API-Data-Explorer) |
+| 013 | Invoice Generator              |   ✅ Complete   | Python, Tkinter, ReportLab, JSON, dataclasses, logging, PyInstaller       | [Repo](https://github.com/dg-ganesh/013-Invoice-Generator) |
+| 014 | Log File Analyzer              |   ✅ Complete   | Python, Tkinter, pathlib, datetime, collections, dataclasses, PyInstaller | [Repo](https://github.com/dg-ganesh/014-Log-File-Analyzer) |
+| 015 | Expense Analyzer               |   ✅ Complete   | Python, Tkinter, ttk, pathlib, csv, datetime, logging, PyInstaller        | [Repo](https://github.com/dg-ganesh/015-Expense-Analyzer) |
+| 016 | Amazon S3 Uploader             |   ✅ Complete   | Python, Tkinter, boto3, Amazon S3, JSON, pathlib, logging, threading, queue, PyInstaller | [Repo](https://github.com/dg-ganesh/aws-s3-uploader) |
+| 017 | REST API Template              |   ✅ Complete   | Python, FastAPI, Uvicorn, Pydantic, SQLAlchemy, SQLite, python-jose, argon2-cffi, HTML, JavaScript | [Repo](https://github.com/dg-ganesh/017-REST-API-Template) |
+| 018 | URL Shortener API              | 🚧 In Progress | —                                                                          | — |                                                               | — |
 
 
   ## 🛠️ Tech Stack
