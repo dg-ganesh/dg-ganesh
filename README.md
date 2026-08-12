@@ -1,6 +1,6 @@
 # Hi, I'm Ganesh DG
 
-**Data & Technology Leader | Python | Data Engineering | Automation | AI**
+**Data & Technology Person | Python | Data Engineering | Automation | AI**
 
 I enjoy building practical software that solves real-world problems — from Python desktop applications and automation tools to APIs, cloud integrations, data engineering solutions, and AI-powered applications.
 
@@ -10,14 +10,12 @@ After spending much of my career delivering technology solutions for large enter
 
 ## 📊 Portfolio at a Glance
 
-|                      |                                     |
-| -------------------- | ----------------------------------- |
-| **18+**              | Projects currently in the portfolio |
-| **19**               | GitHub repositories                 |
-| **Python**           | Primary development language        |
-| **Data Engineering** | Core area of focus                  |
-| **Automation**       | Practical engineering focus         |
-| **AI & Agents**      | Emerging area of exploration        |
+|                      |                              |
+| -------------------- | ---------------------------- |
+| **Python**           | Primary development language |
+| **Data Engineering** | Core area of focus           |
+| **Automation**       | Practical engineering focus  |
+| **AI & Agents**      | Emerging area of exploration |
 
 > The portfolio is continuously expanding across software engineering, data, cloud, automation, and AI.
 
@@ -44,24 +42,6 @@ REST APIs, backend services, AWS integrations, cloud utilities, and distributed 
 ### 🤖 AI Engineering
 
 AI-powered applications, LLM experimentation, agentic workflows, tool calling, and practical AI utilities.
-
----
-
-## 🚀 Featured Projects
-
-A selection of projects demonstrating the progression from Python applications to cloud and backend engineering.
-
-| Project                      | Focus                | Technologies                        |
-| ---------------------------- | -------------------- | ----------------------------------- |
-| **URL Shortener API**        | Backend / API        | FastAPI • PostgreSQL • SQLAlchemy   |
-| **REST API Template**        | Backend Architecture | FastAPI • SQLAlchemy • JWT • Argon2 |
-| **Amazon S3 Uploader**       | Cloud / Automation   | Python • Boto3 • AWS S3             |
-| **Public API Data Explorer** | API Integration      | Python • Requests • JSON            |
-| **Data Quality Checker**     | Data Engineering     | Python • Pandas                     |
-| **ETL Pipeline Framework**   | Data Engineering     | Python • SQL                        |
-| **AI Agent Playground**      | AI Engineering       | Python • LLMs • Agents              |
-
-**[View all projects →](#-complete-project-catalog)**
 
 ---
 
@@ -105,29 +85,21 @@ Git • GitHub • Docker • PyInstaller
 
 ---
 
-## 🚧 Currently Building
+## 🧭 Engineering Journey
 
-### Project 018 — URL Shortener API
+**Python Applications**
+↓
+**Automation**
+↓
+**APIs & Backend**
+↓
+**Data Engineering**
+↓
+**Cloud**
+↓
+**AI & Intelligent Applications**
 
-Currently extending the portfolio from desktop applications into production-style backend development.
-
-**Focus areas:**
-
-* FastAPI
-* PostgreSQL
-* SQLAlchemy
-* REST API architecture
-* Authentication and authorization
-* Database design
-* Testing
-* Docker
-* Production-oriented project structure
-
-### Portfolio Direction
-
-The broader journey is progressing through:
-
-**Python Applications → Automation → APIs → Data Engineering → Cloud → AI**
+The portfolio is evolving along this path as I explore increasingly complex engineering problems and technologies.
 
 ---
 
