@@ -106,7 +106,7 @@ The portfolio is evolving along this path as I explore increasingly complex engi
 ## 📚 Complete Project Catalog
 
 <details>
-<summary><strong>View all current projects</strong></summary>
+<strong>View all current projects</strong>
 
 <br>
 
