@@ -1,4 +1,4 @@
-# Hi, I'm Ganesh DG
+# Hi, I am Ganesh DG
 
 **Data & Technology Person | Python | Data Engineering | Automation | AI**
 
@@ -105,11 +105,6 @@ The portfolio is evolving along this path as I explore increasingly complex engi
 
 ## 📚 Complete Project Catalog
 
-<details>
-<strong>View all current projects</strong>
-
-<br>
-
 |   # | Project                       | Focus                | Technologies                                      | Repository                                                             |
 | --: | ----------------------------- | -------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- |
 | 001 | Smart File Organizer          | Productivity         | Python • pathlib • shutil • PyInstaller           | [Repo](https://github.com/dg-ganesh/smart-file-organizer)              |
@@ -130,8 +125,6 @@ The portfolio is evolving along this path as I explore increasingly complex engi
 | 016 | Amazon S3 Uploader            | Cloud / Automation   | Python • Tkinter • Boto3 • AWS S3                 | [Repo](https://github.com/dg-ganesh/aws-s3-uploader)                   |
 | 017 | REST API Template             | Backend Architecture | FastAPI • SQLAlchemy • SQLite • JWT               | [Repo](https://github.com/dg-ganesh/017-REST-API-Template)             |
 | 018 | URL Shortener API             | Backend / API        | FastAPI • PostgreSQL • SQLAlchemy                 | In Progress                                                            |
-
-</details>
 
 ---
 
