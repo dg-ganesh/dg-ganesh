@@ -5,7 +5,6 @@ I enjoy building practical desktop applications and AI-powered tools that solve 
 
 While my projects may be modest in scope compared to many open-source developers, my goal is simple: build tools that solve real problems for everyday users. After spending much of my career delivering technology solutions for large enterprises, I'm excited to create software that anyone can use and benefit from.
 
-## Current Projects
 
 ## Current Projects
 
