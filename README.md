@@ -124,7 +124,9 @@ The portfolio is evolving along this path as I explore increasingly complex engi
 | 015 | Expense Analyzer              | Data Analysis        | Python • Tkinter • Pandas • CSV                   | [Repo](https://github.com/dg-ganesh/015-Expense-Analyzer)              |
 | 016 | Amazon S3 Uploader            | Cloud / Automation   | Python • Tkinter • Boto3 • AWS S3                 | [Repo](https://github.com/dg-ganesh/aws-s3-uploader)                   |
 | 017 | REST API Template             | Backend Architecture | FastAPI • SQLAlchemy • SQLite • JWT               | [Repo](https://github.com/dg-ganesh/017-REST-API-Template)             |
-| 018 | URL Shortener API             | Backend / API        | FastAPI • PostgreSQL • SQLAlchemy                 | In Progress                                                            |
+| 018 | URL Shortener API             | Backend / API        | FastAPI • PostgreSQL • SQLAlchemy                 | [Repo](https://github.com/dg-ganesh/018-URL-shortener-API)             |
+| 019 | AWS S3 Backup &Restore Manager| Cloud        | Python, boto3, Amazon S3, SQLite, Tkinter         | [Repo](https://github.com/dg-ganesh/019-AWS-S3-Backup-and-Restore-Manager)|
+| 020 | Azure Blob Storage Explorer| Cloud        | Python, Azure Storage SDK, Azure Blob Storage, Tkinter, SQLite         | In progress|
 
 ---
 
